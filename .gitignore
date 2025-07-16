@@ -1,0 +1,14 @@
+ .idea/
+ *.iml
+
+ # Maven
+ target/
+ *.log
+
+ # Docker
+ *.dockerignore
+ .docker/
+
+ # Autres
+ *.class
+ *.jar
